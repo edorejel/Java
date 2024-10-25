@@ -1,5 +1,7 @@
 /*
 no arrays or other storage structurs may be used
+
+
 */
 
 import java.util.Scanner;
