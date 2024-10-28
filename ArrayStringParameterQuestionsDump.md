@@ -1,12 +1,14 @@
 # How is a parameter like an array?
-It passes data through it, and the index of the data can be created from it.
+It passes data through it, and an index variable of the data can be created from it using the "length".
 A parameter is a "specialized variable."
 An array would be accessed using the array reference variable.
+Arrays and parameters have a data type.
 
 # How is a parameter different from an array?
 A parameter does not store data. An array is used to store data.
 An array has a finite size and data type.
 A parameter only has a data type.
+A parameter allows data to pass through it.
 
 # How are Strings like arrays?
 Strings can be accessed and manipulated using their indices.
