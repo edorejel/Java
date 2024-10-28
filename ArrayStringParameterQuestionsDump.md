@@ -19,9 +19,7 @@
 # How are Strings like arrays?
 - Strings can be accessed and manipulated using their indices.
 - Arrays are accessed and manipulated using their indices.
-
 - A bit of work is required, but Strings can be rearranged, and possibly sorted or rearranged using sorting algorithms made from scratch, specifically for Strings. Sorting algorithms are typically used for numeric data types.
 - So a bubble sort from scratch would be made specifically for Strings.
-
 - Arrays can be sorted efficiently using sorting algorithms.
 - For loops can be used on Strings and arrays to manipulate their data efficiently. 
