@@ -1,4 +1,11 @@
 //copy half of an array, use as little code as possible to achieve the effect
+/*
+this also works, even less code
+public static String[] copyHalf(String[] values){
+       String[] copyOfStrings = Arrays.copyOf(values, values.length/2);
+	    return copyOfStrings;
+}
+*/
 
 import java.util.Arrays;
 
