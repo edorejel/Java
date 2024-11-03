@@ -15,7 +15,6 @@
 - A parameter only has a permanent data type.
 - A parameter allows data to pass through it.
 
-
 # How are Strings like arrays?
 - Strings can be accessed and manipulated using their indices.
 - Arrays are accessed and manipulated using their indices.
@@ -23,3 +22,12 @@
 - So a bubble sort from scratch would be made specifically for Strings.
 - Arrays can be sorted efficiently using sorting algorithms.
 - For loops can be used on Strings and arrays to manipulate their data efficiently. 
+
+# How are arrays and constant variables the same?
+- Size cannot be changed, once created.
+- Data type cannot be changed once created.
+  
+# How are arrays and constant variables different?
+- An array offers more storage capacity than a constant variable.
+- An array can be thought of as being like a highly specialized "variable".
+- A parameter, for example, would just be considered a special type of variable.
