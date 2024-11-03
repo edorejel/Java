@@ -12,7 +12,7 @@
 # How is a parameter different from an array?
 - A parameter does not store data. An array is used to store data.
 - An array has a finite size and permanent data type.
-- A parameter only has a permanent data type.
+- A parameter only has a permanent data type. Technically, a parameter would not be described as having a "size" attribute associated with it, like an array has an explicit size attribute, unless the parameter is the array or other more advanced parameter.
 - A parameter allows data to pass through it.
 
 # How are Strings like arrays?
