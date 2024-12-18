@@ -14,6 +14,6 @@ public class SelectionSortTest {
 		long totalDuration = (stopTime - startTime);
 		System.out.println(Arrays.toString(arrayRefVar));
 		System.out.println();
-		System.out.println(totalDuration + " nano seconds ");
+		System.out.println(totalDuration + " nanoseconds ");
 	}
 }
