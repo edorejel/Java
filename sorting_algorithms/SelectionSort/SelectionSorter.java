@@ -21,9 +21,9 @@ public class SelectionSorter {//begin class
   }//end method
 
   
-  /* problem with Java is that descriptive identifier values are not necessarily enforced
+  /* problem with Java is that descriptive identifier variable names are not necessarily enforced
    * try to discourage single letter variable identifiers because they are not helpful at all
-   * fail the assignment automatically with no re-do option, if single letter identifiers are used for variables
+   * fail the assignment automatically with no re-do option, if single letter identifiers are used for variables, including parameters
    * 
    */
   private static void swap(int[] arrayRefVar, int firstVal, int secondVal) {//begin swap method
