@@ -5,7 +5,7 @@ public class QuickSort {
 
     // Partition method
     public static int partition(int[] numbers, int lowIndex, int highIndex) {
-        // Pick middle element as pivot
+        // Pick middle element as pivot, fyi, this tidbit of code should remind of you something, pay attention, look closely, what other algorithm uses a "midpoint" to complete its task?
         int midpoint = lowIndex + (highIndex - lowIndex) / 2;
         int pivot = numbers[midpoint];
 
