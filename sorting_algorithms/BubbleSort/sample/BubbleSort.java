@@ -1,5 +1,7 @@
 package bubbleSort.Sample;
-
+/*
+at a minimum, a deep understanding of bubble sort should be acquired by the end of a typical semester course in algorithms and data structures
+*/
 public class BubbleSort {
 	
 	public static void bubbleSort(int[] arrayRefVarParam) {
