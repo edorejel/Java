@@ -50,3 +50,7 @@ Space Complexity: 𝑂(𝑘), where 𝑘 is the range of values (for the bins).
   # Key Feauture of "Arrays within Arrays"
 
   ![feature of arrays within arrays](https://github.com/edorejel/Java/blob/main/sorting_algorithms/PigeonholeSort/images/Screenshot%202024-12-26%20204102.png)
+
+# Pigeonhole Sort Explanation
+
+![pigeonhole sort explanation](https://github.com/edorejel/Java/blob/main/sorting_algorithms/PigeonholeSort/images/Screenshot%202024-12-26%20204021.png)
