@@ -1,5 +1,8 @@
 # Pigeonhole Sort 
 
+Disclaimer: Pigeonhole Sort is not a usual algorithm to use. It is from Discrete Math, and not necessarily taught in a typical algorithms and data structures course nor in a typical Discrete Math course.
+
+
 The Pigeonhole Principle states that if 𝑛 items are put into 𝑚 containers, where 𝑛 > 𝑚, then at least one container must contain more than one item. 
 
 In sorting, this principle is used to "place items into specific holes" (or bins) based on their values, and each bin may have more than one item.
