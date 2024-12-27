@@ -41,5 +41,5 @@ Space Complexity: 𝑂(𝑘), where 𝑘 is the range of values (for the bins).
 
   # Conclusion
   
-
+![conclusion image](https://github.com/edorejel/Java/blob/main/sorting_algorithms/PigeonholeSort/images/Screenshot%202024-12-26%20203911.png)
   
