@@ -32,7 +32,7 @@ If Selection Sort nearly sorts the array, Bubble Sort may terminate early with O
 
 # Summary of Combined Sorting Behavior
 
-insert picture here
+![bubble sort selection sort explanation](https://github.com/edorejel/Java/blob/main/sorting_algorithms/HybridAlgorithms/BubbleSortSelectionSortHybrid/Screenshot%202025-01-04%20185602.png)
 
 # Conclusion
 The combined sorting behavior resembles __Insertion Sort__ with redundant selection passes and additional swaps. If __Bubble Sort__ runs first, it may perform multiple unnecessary passes before __Selection Sort__ completes. Conversely, __Selection Sort__ before __Bubble Sort__ gives an initial order, which __Bubble Sort__ refines similarly to how __Insertion Sort__ handles local shifts.
