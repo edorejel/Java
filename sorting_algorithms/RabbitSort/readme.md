@@ -1,5 +1,10 @@
 # Rabbit Sort
 
+## Taken from ChatGPT
+
+![rabbit sort image 1](https://github.com/edorejel/Java/blob/main/sorting_algorithms/RabbitSort/Screenshot%202025-01-05%20234020.png)
+
+
 ## Rabbit Sort Idea
 The Rabbit Sort is not an actual sorting algorithm. It is a small algorithm project, wherein, a sorting algorithm is created, to match a rabbit or jack-rabbit, running at full speed. The idea is to see how it compares against established sorting algorithms.
 
