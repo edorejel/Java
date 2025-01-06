@@ -44,4 +44,6 @@ The rabbit’s full-speed run could be akin to QuickSort or MergeSort, where it 
 
 ## Challenges & Refinements:
 Speed: Making sure that the rabbit's "speed" (or the efficiency of the algorithm) increases with every pass.
-Foot Placement Rule: Defining the "foot placement" algorithmically is key to making the sorting method efficient.
+
+## Foot Placement Rule: 
+Defining the "foot placement" algorithmically is key to making the sorting method efficient.
