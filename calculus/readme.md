@@ -1,5 +1,7 @@
 # Calculus vs Sorting Algorithms
 
+*will format it properly later*
+
 Thinking about sorting algorithms versus Calculus problems, and what they could look like, if such a comparison were made between the two.
 
 __My driving question is:__ Is it possible to view sorting algorithms as calculus or integral problems? If so, what do they look like? For example, what would Bubble Sort look like as an integral?
